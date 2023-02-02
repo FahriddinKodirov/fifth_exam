@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999948268761",
+    "project_id": "fifth-exam-92b18",
+    "storage_bucket": "fifth-exam-92b18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999948268761:android:36ba5241963f97e340fac8",
+        "android_client_info": {
+          "package_name": "com.example.exam_five"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999948268761-6nc85v4jsav4l6dvvbbgvrthqqhs4klb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exam_five",
+            "certificate_hash": "86d95ab772d8492144aafd0e1a0442484428455b"
+          }
+        },
+        {
+          "client_id": "999948268761-uqn0r1v1qch4mrq6riqmacstb0tej1uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK7jgqvHPX9uMOfarredZH9Dw4cQlpeqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999948268761-uqn0r1v1qch4mrq6riqmacstb0tej1uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
